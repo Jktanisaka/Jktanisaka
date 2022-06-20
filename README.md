@@ -8,6 +8,9 @@ Connect with me on linkedin!
 https://www.linkedin.com/in/jonathan-tanisaka/
 
 # Technical Skills
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jktanisaka)](https://github.com/jktanisaka/github-readme-stats)
+
+
 Strong: JavaScript (ES5/ES6), React, HTML5, CSS3
 
 Experienced: API's (AJAX), OOP, PostgreSQL, AGILE Methodology, Node, NPM, Bootstrap, Node.js, Express.js
@@ -16,6 +19,10 @@ Tools: Slack, Git, GitHub, VS Code, Chrome DevTools, Figma, Heroku, AWS Bucket, 
  
  # Articles
  https://www.linkedin.com/pulse/code-ive-written-im-ashamed-what-i-learned-from-jonathan-tanisaka/
+ 
+ --------------------
+ 
+ ![jktanisaka's github stats](https://github-readme-stats.vercel.app/api?username=jktanisaka)
 <!--
 **Jktanisaka/Jktanisaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
