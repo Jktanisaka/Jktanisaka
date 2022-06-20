@@ -1,3 +1,5 @@
+![LinkedIn Cover 1584x396 px (1)](https://user-images.githubusercontent.com/96153171/174684108-919e3cf5-d61c-467a-be87-874037291898.png)
+
 
 # About Me
 Hi! Im Jon, a recent bootcamp grad looking to get into web development. I know JavaScript (es5/es6), HTML, CSS, React, and more - but I'm always looking for something new to learn! When I'm not coding you can find me tinkering with 3D printers or running my online shop where I sell my 3D prints.
