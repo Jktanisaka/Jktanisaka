@@ -13,7 +13,7 @@ https://www.linkedin.com/in/jonathan-tanisaka/
 
 Strong: JavaScript (ES5/ES6), React, HTML5, CSS3
 
-Experienced: API's (AJAX), OOP, PostgreSQL, AGILE Methodology, Node, NPM, Bootstrap, Node.js, Express.js
+Experienced: API's (AJAX), PHP, OOP, PostgreSQL, AGILE Methodology, Node, NPM, Bootstrap, Node.js, Express.js, JQuery
 
 Tools: Slack, Git, GitHub, VS Code, Chrome DevTools, Figma, Heroku, AWS Bucket, Babel, DbDesigner
  
